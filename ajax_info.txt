@@ -1,0 +1,4 @@
+<figure>
+  <blockquote>Coucou tout le monde !</blockquote>
+  <figcaption>Toto Totovitch Totov</figcaption>
+</figure>
